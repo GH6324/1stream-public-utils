@@ -858,6 +858,7 @@ nameserver /gemini.google.com/<replace with groupname>
 nameserver /proactivebackend-pa.googleapis.com/<replace with groupname>
 nameserver /aisandbox-pa.googleapis.com/<replace with groupname>
 nameserver /robinfrontend-pa.googleapis.com/<replace with groupname>
+nameserver /signaler-pa.clients6.google.com/<replace with groupname>
 # > Google AiStudio /HK Only/
 nameserver /aistudio.google.com/<replace with groupname>
 nameserver /alkalimakersuite-pa.clients6.google.com/<replace with groupname>

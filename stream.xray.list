@@ -858,6 +858,7 @@
 "domain:proactivebackend-pa.googleapis.com",
 "domain:aisandbox-pa.googleapis.com",
 "domain:robinfrontend-pa.googleapis.com",
+"domain:signaler-pa.clients6.google.com",
 # > Google AiStudio /HK Only/
 "domain:aistudio.google.com",
 "domain:alkalimakersuite-pa.clients6.google.com",
